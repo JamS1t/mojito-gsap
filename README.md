@@ -35,7 +35,7 @@ To get a local copy up and running, follow these steps:
     yarn install
     ```
 
-## 🎓 Credits
+## Credits
 This project is inspired by and follows a YouTube tutorial:
 https://www.youtube.com/watch?v=AW1yfBKRMKc&t
 Huge thanks to the creator: [JavaScript Mastery](https://www.youtube.com/@javascriptmastery), for providing clear explanations and guidance on React, Tailwind, and GSAP animation.
